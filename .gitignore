@@ -1,2 +1,2 @@
-./weights_hidden
-./weights_output
+weights_hidden.txt
+weights_output.txt
